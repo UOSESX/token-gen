@@ -150,7 +150,7 @@ def main():
         print('No proxies found in proxies.txt')
         return
 
-    capmonster_key = "c29feefe09c96197d22c3da143a00a1b"  # Replace with your CapMonster API key
+    capmonster_key = "2e02f654b44bbf4049589aefeaaebd1a"  # Replace with your CapMonster API key
 
     while True:
         proxy = random.choice(proxies)
